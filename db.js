@@ -1,7 +1,5 @@
-const items = require("./data/items");
-const tags = require("./data/tags");
-const brands = require("./data/brands");
-const itemTypes = require("./data/itemTypes");
+const items = require("./data/stats");
+
 
 module.exports = {
   stats,
@@ -22,9 +20,6 @@ module.exports = {
 //   itemTypes = [...new Set(itemTypes)];
 
 //   return {
-//     items,
-//     tags,
-//     brands,
-//     itemTypes,
+//     stats,
 //   };
 // };
