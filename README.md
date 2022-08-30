@@ -1,1 +1,1 @@
-# FakeApi
+# fake-product-api-json-server
